@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut.cap" format="1">
+  <advance width="532"/>
+  <outline>
+    <component base="acute" xOffset="124" yOffset="-31"/>
+    <component base="acute" xOffset="-55" yOffset="-31"/>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvAnusvara.aMatraI" format="1">
+  <advance width="0"/>
+  <unicode hex="E291"/>
+  <outline>
+    <contour>
+      <point x="-30" y="908" type="line"/>
+      <point x="-100" y="839" type="line"/>
+      <point x="-29" y="770" type="line"/>
+      <point x="40" y="838" type="line"/>
+    </contour>
+  </outline>
+</glyph>

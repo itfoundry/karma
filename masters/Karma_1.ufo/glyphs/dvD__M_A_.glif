@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvD_MA" format="1">
+  <advance width="773"/>
+  <outline>
+    <contour>
+      <point x="685" y="625" type="move" name="abvm_Ekaar"/>
+    </contour>
+    <contour>
+      <point x="685" y="625" type="move" name="abvm_Anusvara"/>
+    </contour>
+    <contour>
+      <point x="685" y="-71" type="move" name="blwm_Ukaar"/>
+    </contour>
+    <contour>
+      <point x="685" y="-71" type="move" name="blwm_Halant"/>
+    </contour>
+    <contour>
+      <point x="685" y="-71" type="move" name="blwm_Rashtra"/>
+    </contour>
+  </outline>
+</glyph>

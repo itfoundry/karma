@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grave.cap" format="1">
+  <advance width="370"/>
+  <outline>
+    <component base="acute" xScale="-1.0" xOffset="478"/>
+  </outline>
+</glyph>
