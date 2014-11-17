@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="radical">
+  <advance width="598" />
+  <unicode hex="221A" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="479" y="700" />
+      <point type="line" x="299" y="85" />
+      <point type="line" x="203" y="380" />
+      <point type="line" x="31" y="380" />
+      <point x="27" y="345" />
+      <point x="38" y="284" />
+      <point type="curve" x="94" y="284" />
+      <point type="line" x="116" y="284" />
+      <point type="line" x="238" y="-66" />
+      <point x="258" y="-70" />
+      <point x="324" y="-68" />
+      <point type="curve" x="338" y="-62" />
+      <point type="line" x="568" y="700" />
+    </contour>
+  </outline>
+</glyph>

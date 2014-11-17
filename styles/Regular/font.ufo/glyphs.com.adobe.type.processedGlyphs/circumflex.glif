@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="circumflex">
+  <advance width="600" />
+  <unicode hex="02C6" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="300" y="681" />
+      <point x="282" y="686" />
+      <point x="260" y="686" />
+      <point type="curve" x="239" y="681" />
+      <point type="line" x="107" y="560" />
+      <point x="113" y="549" />
+      <point x="121" y="539" />
+      <point type="curve" x="135" y="532" />
+      <point type="line" x="269" y="620" />
+      <point type="line" x="403" y="532" />
+      <point x="416" y="539" />
+      <point x="425" y="550" />
+      <point type="curve" x="431" y="560" />
+    </contour>
+  </outline>
+</glyph>

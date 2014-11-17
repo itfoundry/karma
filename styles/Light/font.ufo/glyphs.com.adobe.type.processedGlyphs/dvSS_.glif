@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvSS">
+  <advance width="337" />
+  <unicode hex="E02C" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="143" y="521" />
+      <point type="line" x="373" y="247" />
+      <point x="337" y="215" />
+      <point x="289" y="191" />
+      <point type="curve" x="244" y="191" />
+      <point x="169" y="191" />
+      <point x="143" y="246" />
+      <point type="curve" x="143" y="394" />
+    </contour>
+    <contour>
+      <point type="line" x="171" y="550" />
+      <point type="line" x="361" y="550" />
+      <point x="361" y="566" />
+      <point x="355" y="589" />
+      <point type="curve" x="346" y="600" />
+      <point type="line" x="-25" y="600" />
+      <point x="-25" y="583" />
+      <point x="-18" y="560" />
+      <point type="curve" x="-10" y="550" />
+      <point type="line" x="85" y="550" />
+      <point type="line" x="85" y="394" />
+      <point x="85" y="263" />
+      <point x="113" y="150" />
+      <point type="curve" x="253" y="150" />
+      <point x="320" y="150" />
+      <point x="373" y="176" />
+      <point type="curve" x="414" y="214" />
+      <point type="line" x="420" y="253" />
+    </contour>
+  </outline>
+</glyph>

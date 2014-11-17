@@ -1,0 +1,26 @@
+# Created: Mon Nov 17 13:15:03 2014
+# PS Name: Karma-Bold
+# MM Inst: None
+# exported from noApp
+
+@mGC_abvm.bindu_n88_625 = [dvmEcandra dvAnusvara dvCandrabindu dvmEcandra_Anusvara];
+@mGC_abvm.e_n88_625 = [dvmE dvmAI dvReph_Anusvara dvmE_Anusvara dvmE_Reph dvmE_Reph_Anusvara dvmAI_Anusvara dvmAI_Reph dvmAI_Reph_Anusvara];
+@mGC_abvm.i_296_561 = [dvReph.amI dvReph_Anusvara.amI];
+@mGC_blwm.u_n88_0 = [dvmU dvmUU dvmvR];
+
+markClass @mGC_abvm.bindu_n88_625 <anchor -88 625> @MC_abvm.bindu;
+markClass @mGC_abvm.e_n88_625 <anchor -88 625> @MC_abvm.e;
+markClass @mGC_abvm.i_296_561 <anchor 296 561> @MC_abvm.i;
+markClass @mGC_blwm.u_n88_0 <anchor -88 0> @MC_blwm.u;
+markClass acute <anchor 240 505> @MC_top;
+markClass breve <anchor 285 505> @MC_top;
+markClass cedilla <anchor 286 0> @MC_bottom;
+markClass circumflex <anchor 269 505> @MC_top;
+markClass dieresis <anchor 260 505> @MC_top;
+markClass dotaccent <anchor 155 505> @MC_top;
+markClass dvVirama <anchor -88 0> @MC_blwm.virama;
+markClass macron <anchor 258 505> @MC_top;
+markClass ogonek <anchor 168 0> @MC_ogonek;
+markClass ring <anchor 160 505> @MC_top;
+markClass tilde <anchor 251 505> @MC_top;
+

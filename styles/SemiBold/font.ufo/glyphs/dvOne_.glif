@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvOne" format="1">
+  <advance width="458"/>
+  <unicode hex="0967"/>
+  <outline>
+    <contour>
+      <point x="216" y="629" type="curve" smooth="yes"/>
+      <point x="119" y="629"/>
+      <point x="68" y="562"/>
+      <point x="68" y="500" type="curve" smooth="yes"/>
+      <point x="68" y="441"/>
+      <point x="112" y="388"/>
+      <point x="210" y="343" type="curve"/>
+      <point x="220" y="351"/>
+      <point x="233" y="370"/>
+      <point x="237" y="382" type="curve"/>
+      <point x="189" y="415"/>
+      <point x="164" y="446"/>
+      <point x="164" y="484" type="curve" smooth="yes"/>
+      <point x="164" y="524"/>
+      <point x="194" y="553"/>
+      <point x="238" y="553" type="curve" smooth="yes"/>
+      <point x="286" y="553"/>
+      <point x="311" y="519"/>
+      <point x="311" y="469" type="curve" smooth="yes"/>
+      <point x="311" y="364"/>
+      <point x="201" y="263"/>
+      <point x="93" y="229" type="curve"/>
+      <point x="92" y="191" type="line"/>
+      <point x="199" y="108"/>
+      <point x="292" y="23"/>
+      <point x="292" y="-41" type="curve" smooth="yes"/>
+      <point x="292" y="-75"/>
+      <point x="265" y="-115"/>
+      <point x="258" y="-125" type="curve"/>
+      <point x="269" y="-137"/>
+      <point x="331" y="-165"/>
+      <point x="350" y="-165" type="curve"/>
+      <point x="374" y="-137"/>
+      <point x="391" y="-91"/>
+      <point x="391" y="-53" type="curve" smooth="yes"/>
+      <point x="391" y="47"/>
+      <point x="266" y="146"/>
+      <point x="150" y="215" type="curve"/>
+      <point x="157" y="176" type="line"/>
+      <point x="259" y="201"/>
+      <point x="408" y="309"/>
+      <point x="408" y="450" type="curve" smooth="yes"/>
+      <point x="408" y="564"/>
+      <point x="312" y="629"/>
+    </contour>
+  </outline>
+</glyph>

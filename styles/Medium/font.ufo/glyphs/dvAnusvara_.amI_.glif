@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvAnusvara.amI" format="1">
+  <advance width="0"/>
+  <unicode hex="E291"/>
+  <outline>
+    <contour>
+      <point x="-27" y="904" type="curve"/>
+      <point x="-34" y="904"/>
+      <point x="-96" y="846"/>
+      <point x="-96" y="839" type="curve"/>
+      <point x="-96" y="833"/>
+      <point x="-37" y="772"/>
+      <point x="-30" y="772" type="curve"/>
+      <point x="-23" y="772"/>
+      <point x="38" y="830"/>
+      <point x="38" y="834" type="curve"/>
+      <point x="38" y="842"/>
+      <point x="-21" y="904"/>
+    </contour>
+  </outline>
+</glyph>

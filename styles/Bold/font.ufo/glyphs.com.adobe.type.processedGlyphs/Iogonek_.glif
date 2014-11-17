@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Iogonek">
+  <advance width="351" />
+  <unicode hex="012E" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="239" y="71" />
+      <point type="line" x="238" y="71" />
+      <point type="line" x="238" y="616" />
+      <point type="line" x="267" y="618" />
+      <point x="316" y="621" />
+      <point x="310" y="675" />
+      <point type="curve" x="311" y="685" />
+      <point type="line" x="86" y="685" />
+      <point x="36" y="685" />
+      <point x="40" y="630" />
+      <point type="curve" x="41" y="620" />
+      <point type="line" x="112" y="614" />
+      <point type="line" x="113" y="614" />
+      <point type="line" x="113" y="69" />
+      <point type="line" x="84" y="67" />
+      <point x="35" y="64" />
+      <point x="41" y="10" />
+      <point type="curve" x="40" y="0" />
+      <point type="line" x="202" y="0" />
+      <point x="169" y="-24" />
+      <point x="145" y="-59" />
+      <point type="curve" x="145" y="-103" />
+      <point x="145" y="-145" />
+      <point x="178" y="-182" />
+      <point type="curve" x="240" y="-182" />
+      <point x="274" y="-182" />
+      <point x="308" y="-169" />
+      <point type="curve" x="322" y="-149" />
+      <point x="324" y="-138" />
+      <point x="321" y="-112" />
+      <point type="curve" x="315" y="-108" />
+      <point x="304" y="-117" />
+      <point x="283" y="-129" />
+      <point type="curve" x="263" y="-129" />
+      <point x="240" y="-129" />
+      <point x="222" y="-113" />
+      <point type="curve" x="222" y="-80" />
+      <point x="222" y="-44" />
+      <point x="237" y="-19" />
+      <point type="curve" x="266" y="0" />
+      <point x="315" y="1" />
+      <point x="311" y="55" />
+      <point type="curve" x="310" y="65" />
+    </contour>
+  </outline>
+</glyph>

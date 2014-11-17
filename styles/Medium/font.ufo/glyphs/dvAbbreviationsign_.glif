@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvAbbreviationsign" format="1">
+  <advance width="390"/>
+  <unicode hex="0970"/>
+  <outline>
+    <contour>
+      <point x="177" y="498" type="curve" smooth="yes"/>
+      <point x="104" y="498"/>
+      <point x="62" y="442"/>
+      <point x="62" y="369" type="curve" smooth="yes"/>
+      <point x="62" y="271"/>
+      <point x="136" y="212"/>
+      <point x="208" y="212" type="curve" smooth="yes"/>
+      <point x="271" y="212"/>
+      <point x="323" y="257"/>
+      <point x="323" y="337" type="curve" smooth="yes"/>
+      <point x="323" y="427"/>
+      <point x="261" y="498"/>
+    </contour>
+    <contour>
+      <point x="191" y="439" type="curve" smooth="yes"/>
+      <point x="234" y="439"/>
+      <point x="265" y="407"/>
+      <point x="265" y="352" type="curve" smooth="yes"/>
+      <point x="265" y="303"/>
+      <point x="240" y="270"/>
+      <point x="195" y="270" type="curve" smooth="yes"/>
+      <point x="143" y="270"/>
+      <point x="122" y="314"/>
+      <point x="122" y="358" type="curve" smooth="yes"/>
+      <point x="122" y="408"/>
+      <point x="149" y="439"/>
+    </contour>
+  </outline>
+</glyph>

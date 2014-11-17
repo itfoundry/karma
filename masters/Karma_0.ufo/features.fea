@@ -1,0 +1,67 @@
+feature kern { # Kerning
+ # Latin
+lookup kern0 {
+    pos asterisk .notdef -55;
+    pos endash seven -28;
+    pos quotedblleft dv_a -39;
+    pos dv_visarga space -13;
+    pos dv_e dv_pa -11;
+    pos dv_tta dv_ka -12;
+} kern0;
+} kern;
+feature xxxx {
+  sub by ;
+} xxxx;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvmUU" format="1">
+  <advance width="0"/>
+  <unicode hex="0942"/>
+  <outline>
+    <contour>
+      <point x="-106" y="0" type="move" name="_blwm.u"/>
+    </contour>
+    <contour>
+      <point x="-55" y="-253" type="curve"/>
+      <point x="-62" y="-227"/>
+      <point x="-84" y="-197"/>
+      <point x="-97" y="-183" type="curve"/>
+      <point x="-118" y="-197"/>
+      <point x="-155" y="-213"/>
+      <point x="-193" y="-213" type="curve" smooth="yes"/>
+      <point x="-241" y="-213"/>
+      <point x="-260" y="-185"/>
+      <point x="-260" y="-158" type="curve" smooth="yes"/>
+      <point x="-260" y="-115"/>
+      <point x="-223" y="-86"/>
+      <point x="-157" y="-86" type="curve" smooth="yes"/>
+      <point x="-68" y="-86"/>
+      <point x="20" y="-146"/>
+      <point x="102" y="-271" type="curve"/>
+      <point x="119" y="-265"/>
+      <point x="140" y="-246"/>
+      <point x="145" y="-236" type="curve"/>
+      <point x="84" y="-134"/>
+      <point x="-42" y="-8"/>
+      <point x="-173" y="-8" type="curve" smooth="yes"/>
+      <point x="-266" y="-8"/>
+      <point x="-322" y="-64"/>
+      <point x="-322" y="-141" type="curve" smooth="yes"/>
+      <point x="-322" y="-217"/>
+      <point x="-261" y="-284"/>
+      <point x="-161" y="-284" type="curve" smooth="yes"/>
+      <point x="-126" y="-284"/>
+      <point x="-86" y="-274"/>
+    </contour>
+  </outline>
+</glyph>

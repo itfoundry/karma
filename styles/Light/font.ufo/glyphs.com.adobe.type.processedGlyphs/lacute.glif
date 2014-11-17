@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="lacute">
+  <advance width="328" />
+  <unicode hex="013A" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="269" y="788" />
+      <point x="258" y="810" />
+      <point x="234" y="831" />
+      <point type="curve" x="211" y="832" />
+      <point type="line" x="47" y="708" />
+      <point x="53" y="698" />
+      <point x="61" y="688" />
+      <point type="curve" x="73" y="682" />
+    </contour>
+    <contour>
+      <point type="line" x="180" y="41" />
+      <point type="line" x="180" y="693" />
+      <point type="line" x="49" y="675" />
+      <point x="49" y="662" />
+      <point x="48" y="641" />
+      <point type="curve" x="69" y="639" />
+      <point type="line" x="125" y="633" />
+      <point type="line" x="125" y="39" />
+      <point type="line" x="78" y="36" />
+      <point x="45" y="34" />
+      <point x="51" y="10" />
+      <point type="curve" x="50" y="0" />
+      <point type="line" x="228" y="0" />
+      <point x="256" y="0" />
+      <point x="252" y="25" />
+      <point type="curve" x="251" y="35" />
+    </contour>
+  </outline>
+</glyph>

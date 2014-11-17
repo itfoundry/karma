@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvmOcandra" format="1">
+  <advance width="294"/>
+  <unicode hex="0949"/>
+  <outline>
+    <contour>
+      <point x="253" y="861" type="curve"/>
+      <point x="220" y="785"/>
+      <point x="173" y="744"/>
+      <point x="108" y="744" type="curve" smooth="yes"/>
+      <point x="58" y="744"/>
+      <point x="10" y="769"/>
+      <point x="-33" y="851" type="curve"/>
+      <point x="-48" y="845"/>
+      <point x="-60" y="838"/>
+      <point x="-73" y="827" type="curve"/>
+      <point x="-42" y="750"/>
+      <point x="19" y="672"/>
+      <point x="120" y="672" type="curve" smooth="yes"/>
+      <point x="218" y="672"/>
+      <point x="292" y="743"/>
+      <point x="326" y="816" type="curve"/>
+      <point x="308" y="833"/>
+      <point x="279" y="852"/>
+    </contour>
+    <contour>
+      <point x="188" y="563" type="line"/>
+      <point x="106" y="563" type="line"/>
+      <point x="106" y="16" type="line" smooth="yes"/>
+      <point x="106" y="-1"/>
+      <point x="149" y="-20"/>
+      <point x="188" y="-20" type="curve"/>
+    </contour>
+    <contour>
+      <point x="304" y="611" type="curve"/>
+      <point x="-36" y="611" type="line"/>
+      <point x="-36" y="583"/>
+      <point x="-24" y="554"/>
+      <point x="-10" y="537" type="curve"/>
+      <point x="330" y="537" type="line"/>
+      <point x="330" y="564"/>
+      <point x="319" y="593"/>
+    </contour>
+  </outline>
+</glyph>

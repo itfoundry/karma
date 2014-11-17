@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="caron">
+  <advance width="600" />
+  <unicode hex="02C7" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="269" y="618" />
+      <point type="line" x="133" y="705" />
+      <point x="119" y="697" />
+      <point x="111" y="688" />
+      <point type="curve" x="103" y="674" />
+      <point type="line" x="237" y="551" />
+      <point x="262" y="546" />
+      <point x="280" y="546" />
+      <point type="curve" x="303" y="551" />
+      <point type="line" x="435" y="674" />
+      <point x="428" y="685" />
+      <point x="418" y="698" />
+      <point type="curve" x="404" y="705" />
+    </contour>
+  </outline>
+</glyph>

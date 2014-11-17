@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcaron" format="1">
+  <advance width="604"/>
+  <unicode hex="010F"/>
+  <outline>
+    <contour>
+      <point x="513" y="725" type="curve"/>
+      <point x="527" y="681"/>
+      <point x="524" y="599"/>
+      <point x="504" y="551" type="curve"/>
+      <point x="504" y="543"/>
+      <point x="527" y="531"/>
+      <point x="534" y="535" type="curve"/>
+      <point x="575" y="581"/>
+      <point x="593" y="649"/>
+      <point x="590" y="720" type="curve"/>
+      <point x="579" y="739"/>
+      <point x="532" y="739"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+</glyph>

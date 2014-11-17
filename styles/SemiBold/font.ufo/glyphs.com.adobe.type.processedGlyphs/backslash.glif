@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="backslash">
+  <advance width="385" />
+  <unicode hex="005C" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="365" y="-106" />
+      <point type="line" x="107" y="697" />
+      <point type="line" x="20" y="697" />
+      <point type="line" x="278" y="-106" />
+    </contour>
+  </outline>
+</glyph>

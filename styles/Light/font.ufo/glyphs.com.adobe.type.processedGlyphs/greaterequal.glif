@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="greaterequal">
+  <advance width="460" />
+  <unicode hex="2265" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="49" y="66" />
+      <point type="line" x="419" y="66" />
+      <point type="line" x="419" y="116" />
+      <point type="line" x="49" y="116" />
+    </contour>
+    <contour>
+      <point type="line" x="63" y="442" />
+      <point type="line" x="45" y="396" />
+      <point type="line" x="330" y="291" />
+      <point type="line" x="45" y="186" />
+      <point type="line" x="63" y="140" />
+      <point type="line" x="420" y="272" />
+      <point type="line" x="420" y="310" />
+    </contour>
+  </outline>
+</glyph>

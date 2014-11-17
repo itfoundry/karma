@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvG" format="1">
+  <advance width="272"/>
+  <unicode hex="E00E"/>
+  <outline>
+    <contour>
+      <point x="282" y="605" type="curve"/>
+      <point x="-30" y="605" type="line"/>
+      <point x="-30" y="583"/>
+      <point x="-21" y="557"/>
+      <point x="-10" y="544" type="curve"/>
+      <point x="302" y="544" type="line"/>
+      <point x="302" y="565"/>
+      <point x="294" y="591"/>
+    </contour>
+    <contour>
+      <point x="180" y="557" type="line"/>
+      <point x="113" y="557" type="line"/>
+      <point x="113" y="340" type="line"/>
+      <point x="76" y="339"/>
+      <point x="47" y="332"/>
+      <point x="39" y="316" type="curve" smooth="yes"/>
+      <point x="36" y="311"/>
+      <point x="34" y="301"/>
+      <point x="34" y="292" type="curve" smooth="yes"/>
+      <point x="34" y="252"/>
+      <point x="97" y="188"/>
+      <point x="128" y="188" type="curve" smooth="yes"/>
+      <point x="141" y="188"/>
+      <point x="155" y="192"/>
+      <point x="162" y="202" type="curve" smooth="yes"/>
+      <point x="174" y="217"/>
+      <point x="180" y="252"/>
+      <point x="180" y="288" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

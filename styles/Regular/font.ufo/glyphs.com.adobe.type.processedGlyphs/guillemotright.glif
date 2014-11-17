@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="guillemotright">
+  <advance width="556" />
+  <unicode hex="00BB" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="415" y="246" />
+      <point type="line" x="415" y="240" />
+      <point type="line" x="221" y="49" />
+      <point type="line" x="253" y="19" />
+      <point type="line" x="497" y="221" />
+      <point x="501" y="239" />
+      <point x="501" y="246" />
+      <point type="curve" x="497" y="265" />
+      <point type="line" x="253" y="467" />
+      <point type="line" x="223" y="437" />
+    </contour>
+    <contour>
+      <point type="line" x="225" y="246" />
+      <point type="line" x="225" y="240" />
+      <point type="line" x="30" y="49" />
+      <point type="line" x="62" y="19" />
+      <point type="line" x="306" y="221" />
+      <point x="311" y="239" />
+      <point x="311" y="246" />
+      <point type="curve" x="306" y="265" />
+      <point type="line" x="62" y="467" />
+      <point type="line" x="32" y="437" />
+    </contour>
+  </outline>
+</glyph>
