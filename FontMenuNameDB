@@ -10,34 +10,34 @@
 #   l=  Compatible Family Menu Name
 #   m=1,Macintosh Compatible Full Name
 
-[SomeDevanagari-Light]
-  f=  Some Devanagari
+[Karma-Light]
+  f=  Karma
   s=  Light
-  l=  Some Devanagari Light
-  m=1,Some Devanagari Light
+  l=  Karma Light
+  m=1,Karma Light
 
-[SomeDevanagari-Regular]
-  f=  Some Devanagari
+[Karma-Regular]
+  f=  Karma
   s=  Regular
-  l=  Some Devanagari
-  m=1,Some Devanagari
+  l=  Karma
+  m=1,Karma
 
-[SomeDevanagari-Medium]
-  f=  Some Devanagari
+[Karma-Medium]
+  f=  Karma
   s=  Medium
-  l=  Some Devanagari Medium
-  m=1,Some Devanagari Medium
+  l=  Karma Medium
+  m=1,Karma Medium
 
-[SomeDevanagari-SemiBold]
-  f=  Some Devanagari
+[Karma-SemiBold]
+  f=  Karma
   s=  SemiBold
-  l=  Some Devanagari SemiBold
-  m=1,Some Devanagari SemiBold
+  l=  Karma SemiBold
+  m=1,Karma SemiBold
 
-[SomeDevanagari-Bold]
-  f=  Some Devanagari
+[Karma-Bold]
+  f=  Karma
   s=  Bold
-  l=  Some Devanagari
-  m=1,Some Devanagari Bold
+  l=  Karma
+  m=1,Karma Bold
 # Style-linked because of `l` (the same as Regular's)
 #   and `styles/Bold/fontinfo` (`IsBoldStyle true`).
