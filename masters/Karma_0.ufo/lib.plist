@@ -982,6 +982,29 @@
 		<string>zerowidthspace</string>
 		<string>apostrophemod</string>
 		<string>dvmEcandra_Anusvara</string>
+		<string>dvmvRR</string>
+		<string>dvmvL</string>
+		<string>dvmvLL</string>
+		<string>dvL_RA</string>
+		<string>dvSS_RA</string>
+		<string>dvLL_RA</string>
+		<string>dvNG_R</string>
+		<string>dvCH_R</string>
+		<string>dvL_R</string>
+		<string>dvSH_R</string>
+		<string>dvSS_R</string>
+		<string>dvH_R</string>
+		<string>dvLL_R</string>
+		<string>dvTTH_VA</string>
+		<string>dvDDH_VA</string>
+		<string>rupee</string>
+		<string>integral</string>
+		<string>turkishlira</string>
+		<string>ruble</string>
+		<string>litre</string>
+		<string>estimated</string>
+		<string>bulletoperator</string>
+		<string>dvAcandra</string>
 	</array>
 </dict>
 </plist>

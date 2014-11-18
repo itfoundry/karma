@@ -28,10 +28,10 @@
     <contour>
       <point x="402" y="153" type="line"/>
       <point x="349" y="141" type="line"/>
-      <point x="349" y="-237" type="line" smooth="yes"/>
-      <point x="349" y="-247"/>
-      <point x="371" y="-265"/>
-      <point x="402" y="-265" type="curve"/>
+      <point x="349" y="-217" type="line" smooth="yes"/>
+      <point x="349" y="-227"/>
+      <point x="371" y="-245"/>
+      <point x="402" y="-245" type="curve"/>
     </contour>
     <contour>
       <point x="127" y="-16" type="curve" smooth="yes"/>
