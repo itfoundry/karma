@@ -39,6 +39,7 @@
   dvTTH_RA
   dvDDH_RA
   dvTT_VA
+  dvDDH_VA
   dvD_GA
   dvD_G_RA
   dvD_DHA
@@ -78,6 +79,7 @@
   dvDD_RA
   dvB_RA
   dvV_RA
+  dvTTH_VA
   dvN_NA
   dvB_NA
   dvV_NA
@@ -96,6 +98,7 @@
   dvP_RA
   dvPH_RA
   dvY_RA
+  dvSS_RA
   dvH_RA
   dvK_TA
   dvG_NA
@@ -157,6 +160,8 @@
 
 @mI_BASES_14 = [
   dvJHA
+  dvL_RA
+  dvLL_RA
   dvBH_NA
 ];
 

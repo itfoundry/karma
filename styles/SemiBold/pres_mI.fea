@@ -62,6 +62,7 @@
   dvKx_RA
   dvK_NA
   dvDD_DDHA
+  dvDDH_VA
   dvD_NA
   dvP_TTA
   dvP_TTHA
@@ -81,8 +82,10 @@
   dvPH_RA
   dvB_RA
   dvV_RA
+  dvSS_RA
   dvH_RA
   dvG_NA
+  dvTTH_VA
   dvN_NA
   dvP_NA
   dvPH_NA
@@ -151,6 +154,8 @@
 @mI_BASES_13 = [
   dvJHA
   dvLA
+  dvL_RA
+  dvLL_RA
   dvD_GHA
   dvBH_NA
   dvEyelash_YA

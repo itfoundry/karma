@@ -48,10 +48,10 @@
       <point x="287" y="-174" />
       <point x="323" y="-162" />
       <point type="curve" x="353" y="-145" />
-      <point type="line" x="353" y="-245" />
-      <point x="353" y="-266" />
-      <point x="398" y="-285" />
-      <point type="curve" x="442" y="-285" />
+      <point type="line" x="353" y="-239" />
+      <point x="353" y="-260" />
+      <point x="398" y="-279" />
+      <point type="curve" x="442" y="-279" />
       <point type="line" x="442" y="129" />
       <point x="465" y="143" />
       <point x="484" y="160" />
