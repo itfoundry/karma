@@ -6,9 +6,7 @@
   dvK_S_P_LA
 ];
 
-@mI_BASES_01 = [
-  dvD_MA
-];
+# @mI_BASES_01 = [];
 
 @mI_BASES_02 = [
   dvRA
@@ -204,6 +202,7 @@
   dvT_KA
   dvT_K_RA
   dvT_PHA
+  dvD_MA
   dvN_KA
   dvN_TA
   dvN_D_RA
@@ -562,7 +561,7 @@
 
 # RULES
 
-  sub dvmI' @mI_BASES_01 by dvmI.a01;
+# sub dvmI' @mI_BASES_01 by dvmI.a01;
   sub dvmI' @mI_BASES_02 by dvmI.a02;
 # sub dvmI' @mI_BASES_03 by dvmI.a03;
   sub dvmI' @mI_BASES_04 by dvmI.a04;

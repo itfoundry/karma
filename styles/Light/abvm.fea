@@ -1,4 +1,4 @@
-# Created: Tue Nov 18 19:24:38 2014
+# Created: Wed Nov 19 11:57:38 2014
 # PS Name: Karma-Light
 # MM Inst: None
 # exported from noApp
@@ -268,7 +268,7 @@ lookup MARK_BASE_abvm.e {
 lookup MARK_BASE_abvm.i {
 	@bGC_dvmI.a11_abvm.i = [dvmI.a11 dvmI.a12];
 	pos base @bGC_dvmI.a11_abvm.i <anchor 805 622> mark @MC_abvm.i;
-	pos base @mI_BASES_01 <anchor 152 642> mark @MC_abvm.i;
+#	pos base @mI_BASES_01 <anchor 152 642> mark @MC_abvm.i;
 	pos base @mI_BASES_02 <anchor 172 642> mark @MC_abvm.i;
 	pos base @mI_BASES_03 <anchor 282 630> mark @MC_abvm.i;
 	pos base @mI_BASES_04 <anchor 282 628> mark @MC_abvm.i;

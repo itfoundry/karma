@@ -296,6 +296,8 @@
 	<string>dvCA_.glif</string>
 	<key>dvCHA</key>
 	<string>dvCHA_.glif</string>
+	<key>dvCH_R</key>
+	<string>dvCH__R_.glif</string>
 	<key>dvCH_RA</key>
 	<string>dvCH__RA_.glif</string>
 	<key>dvCH_R_YA</key>
@@ -1496,8 +1498,6 @@
 	<string>indianrupee.glif</string>
 	<key>infinity</key>
 	<string>infinity.glif</string>
-	<key>integral</key>
-	<string>integral.glif</string>
 	<key>iogonek</key>
 	<string>iogonek.glif</string>
 	<key>kcommaaccent</key>

@@ -1,4 +1,4 @@
-# Created: Tue Nov 18 19:25:54 2014
+# Created: Wed Nov 19 11:58:54 2014
 # PS Name: Karma-Bold
 # MM Inst: None
 # exported from noApp
@@ -8,8 +8,8 @@
 lookup MARK_BASE_abvm.bindu {
 	@bGC_dvCH_RA_abvm.bindu = [dvCH_RA dvCHA];
 	@bGC_dvDD_RA_abvm.bindu = [dvDD_RA dvDDA];
-	@bGC_dvD_DA_abvm.bindu = [dvD_DA dvHA];
 	@bGC_dvD_GA_abvm.bindu = [dvD_GA dvD_G_RA dvD_DHA dvD_BA dvD_B_RA dvD_VA];
+	@bGC_dvHA_abvm.bindu = [dvHA dvD_DA];
 	@bGC_dvH_NA_abvm.bindu = [dvH_NA dvH_NNA dvH_RA dvH_VA];
 	@bGC_dvJ_DA_abvm.bindu = [dvJ_DA dvL_KA];
 	@bGC_dvK_KA_abvm.bindu = [dvK_KA dvKx_KxA];
@@ -28,8 +28,8 @@ lookup MARK_BASE_abvm.bindu {
 	@bGC_dvTT_TTA_abvm.bindu = [dvTT_TTA dvTT_TTHA];
 	pos base @bGC_dvCH_RA_abvm.bindu <anchor 557 625> mark @MC_abvm.bindu;
 	pos base @bGC_dvDD_RA_abvm.bindu <anchor 468 625> mark @MC_abvm.bindu;
-	pos base @bGC_dvD_DA_abvm.bindu <anchor 403 625> mark @MC_abvm.bindu;
 	pos base @bGC_dvD_GA_abvm.bindu <anchor 438 625> mark @MC_abvm.bindu;
+	pos base @bGC_dvHA_abvm.bindu <anchor 403 625> mark @MC_abvm.bindu;
 	pos base @bGC_dvH_NA_abvm.bindu <anchor 521 625> mark @MC_abvm.bindu;
 	pos base @bGC_dvJ_DA_abvm.bindu <anchor 965 625> mark @MC_abvm.bindu;
 	pos base @bGC_dvK_KA_abvm.bindu <anchor 1003 625> mark @MC_abvm.bindu;
@@ -125,8 +125,8 @@ lookup MARK_BASE_abvm.e {
 	@bGC_dvCH_RA_abvm.e = [dvCH_RA dvCHA];
 	@bGC_dvDDHxA_abvm.e = [dvDDHxA dvTTH_RA dvDDHA];
 	@bGC_dvDD_RA_abvm.e = [dvDD_RA dvDDA];
-	@bGC_dvD_DA_abvm.e = [dvD_DA dvHA];
 	@bGC_dvD_GA_abvm.e = [dvD_GA dvD_G_RA dvD_DHA dvD_BA dvD_B_RA dvD_VA];
+	@bGC_dvHA_abvm.e = [dvHA dvD_DA];
 	@bGC_dvH_NA_abvm.e = [dvH_NA dvH_NNA dvH_RA dvH_VA];
 	@bGC_dvJ_DA_abvm.e = [dvJ_DA dvL_KA];
 	@bGC_dvK_KA_abvm.e = [dvK_KA dvKx_KxA];
@@ -146,8 +146,8 @@ lookup MARK_BASE_abvm.e {
 	pos base @bGC_dvCH_RA_abvm.e <anchor 557 625> mark @MC_abvm.e;
 	pos base @bGC_dvDDHxA_abvm.e <anchor 429 625> mark @MC_abvm.e;
 	pos base @bGC_dvDD_RA_abvm.e <anchor 468 625> mark @MC_abvm.e;
-	pos base @bGC_dvD_DA_abvm.e <anchor 403 625> mark @MC_abvm.e;
 	pos base @bGC_dvD_GA_abvm.e <anchor 438 625> mark @MC_abvm.e;
+	pos base @bGC_dvHA_abvm.e <anchor 403 625> mark @MC_abvm.e;
 	pos base @bGC_dvH_NA_abvm.e <anchor 521 625> mark @MC_abvm.e;
 	pos base @bGC_dvJ_DA_abvm.e <anchor 965 625> mark @MC_abvm.e;
 	pos base @bGC_dvK_KA_abvm.e <anchor 1003 625> mark @MC_abvm.e;

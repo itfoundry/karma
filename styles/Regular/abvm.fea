@@ -1,4 +1,4 @@
-# Created: Tue Nov 18 19:24:57 2014
+# Created: Wed Nov 19 11:57:58 2014
 # PS Name: Karma-Regular
 # MM Inst: None
 # exported from noApp
@@ -268,7 +268,7 @@ lookup MARK_BASE_abvm.e {
 
 
 lookup MARK_BASE_abvm.i {
-	pos base @mI_BASES_01 <anchor 170 652> mark @MC_abvm.i;
+#	pos base @mI_BASES_01 <anchor 170 652> mark @MC_abvm.i;
 	pos base @mI_BASES_02 <anchor 192 652> mark @MC_abvm.i;
 #	pos base @mI_BASES_03 <anchor 286 643> mark @MC_abvm.i;
 	pos base @mI_BASES_04 <anchor 292 641> mark @MC_abvm.i;

@@ -300,6 +300,8 @@
 	<string>dvCA_.glif</string>
 	<key>dvCHA</key>
 	<string>dvCHA_.glif</string>
+	<key>dvCH_R</key>
+	<string>dvCH__R_.glif</string>
 	<key>dvCH_RA</key>
 	<string>dvCH__RA_.glif</string>
 	<key>dvCH_R_YA</key>
@@ -1108,8 +1110,6 @@
 	<string>dvSS__PHA_.glif</string>
 	<key>dvSS_P_RA</key>
 	<string>dvSS__P__RA_.glif</string>
-	<key>dvSS_R</key>
-	<string>dvSS__R_.glif</string>
 	<key>dvSS_RA</key>
 	<string>dvSS__RA_.glif</string>
 	<key>dvSS_SSA</key>

@@ -65,6 +65,8 @@
 		<string>dvSS</string>
 		<string>dvS</string>
 		<string>dvH</string>
+		<string>dvHA</string>
+		<string>dvVirama</string>
 		<string>dvJ_NY</string>
 		<string>dvK_R</string>
 		<string>dvKH_R</string>
@@ -606,7 +608,6 @@
 		<string>dvSHA</string>
 		<string>dvSSA</string>
 		<string>dvSA</string>
-		<string>dvHA</string>
 		<string>dvmAA</string>
 		<string>dvZero</string>
 		<string>dvOne</string>
@@ -625,7 +626,6 @@
 		<string>dvmEcandra</string>
 		<string>dvmE</string>
 		<string>dvmAI</string>
-		<string>dvVirama</string>
 		<string>danda</string>
 		<string>doubledanda</string>
 		<string>dvJ_RA</string>

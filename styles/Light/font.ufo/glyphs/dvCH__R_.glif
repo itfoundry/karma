@@ -2,5 +2,7 @@
 <glyph name="dvCH_R" format="1">
   <advance width="627"/>
   <outline>
+    <component base="dvRashtrasign" xOffset="505" yOffset="84"/>
+    <component base="dvCH"/>
   </outline>
 </glyph>
