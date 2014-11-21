@@ -1,16 +1,16 @@
-# Created: Wed Nov 19 11:58:18 2014
+# Created: Fri Nov 21 17:00:41 2014
 # PS Name: Karma-Medium
 # MM Inst: None
 # exported from noApp
 
 @mGC_abvm.bindu_n106_611 = [dvmEcandra dvAnusvara dvCandrabindu dvmEcandra_Anusvara];
 @mGC_abvm.e_n106_611 = [dvmE dvmAI dvReph_Anusvara dvmE_Anusvara dvmE_Reph dvmE_Reph_Anusvara dvmAI_Anusvara dvmAI_Reph dvmAI_Reph_Anusvara];
-@mGC_abvm.i_284_555 = [dvReph.amI dvReph_Anusvara.amI];
+@mGC_abvm.i_0_555 = [dvAnusvara.amI dvReph.amI dvReph_Anusvara.amI];
 @mGC_blwm.u_n106_0 = [dvmU dvmUU dvmvR];
 
 markClass @mGC_abvm.bindu_n106_611 <anchor -106 611> @MC_abvm.bindu;
 markClass @mGC_abvm.e_n106_611 <anchor -106 611> @MC_abvm.e;
-markClass @mGC_abvm.i_284_555 <anchor 284 555> @MC_abvm.i;
+markClass @mGC_abvm.i_0_555 <anchor 0 555> @MC_abvm.i;
 markClass @mGC_blwm.u_n106_0 <anchor -106 0> @MC_blwm.u;
 markClass acute <anchor 254 494> @MC_top;
 markClass breve <anchor 286 494> @MC_top;

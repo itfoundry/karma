@@ -1,16 +1,16 @@
-# Created: Wed Nov 19 11:57:58 2014
+# Created: Fri Nov 21 17:00:22 2014
 # PS Name: Karma-Regular
 # MM Inst: None
 # exported from noApp
 
 @mGC_abvm.bindu_n113_605 = [dvmEcandra dvAnusvara dvCandrabindu dvmEcandra_Anusvara];
 @mGC_abvm.e_n113_605 = [dvmE dvmAI dvReph_Anusvara dvmE_Anusvara dvmE_Reph dvmE_Reph_Anusvara dvmAI_Anusvara dvmAI_Reph dvmAI_Reph_Anusvara];
-@mGC_abvm.i_279_552 = [dvReph.amI dvReph_Anusvara.amI];
+@mGC_abvm.i_0_552 = [dvAnusvara.amI dvReph.amI dvReph_Anusvara.amI];
 @mGC_blwm.u_n113_0 = [dvmU dvmUU dvmvR];
 
 markClass @mGC_abvm.bindu_n113_605 <anchor -113 605> @MC_abvm.bindu;
 markClass @mGC_abvm.e_n113_605 <anchor -113 605> @MC_abvm.e;
-markClass @mGC_abvm.i_279_552 <anchor 279 552> @MC_abvm.i;
+markClass @mGC_abvm.i_0_552 <anchor 0 552> @MC_abvm.i;
 markClass @mGC_blwm.u_n113_0 <anchor -113 0> @MC_blwm.u;
 markClass acute <anchor 260 489> @MC_top;
 markClass breve <anchor 286 489> @MC_top;

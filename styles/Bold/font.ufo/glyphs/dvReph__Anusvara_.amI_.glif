@@ -4,7 +4,7 @@
   <unicode hex="E25F"/>
   <outline>
     <contour>
-      <point x="296" y="561" type="move" name="_abvm.i"/>
+      <point x="0" y="561" type="move" name="_abvm.i"/>
     </contour>
     <contour>
       <point x="38" y="669" type="curve" smooth="yes"/>
